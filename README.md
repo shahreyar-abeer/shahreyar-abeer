@@ -6,9 +6,6 @@ Statistician turned R developer. I now develop R Shiny apps *and* packages.
 Recently been introduced to the {golem} infrastructure.
 So now I'll be developing R shiny apps *as* packages.
 
-<!--
-**shahreyar-abeer/shahreyar-abeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on,
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: email
 - ⚡ Fun fact: I write
--->
