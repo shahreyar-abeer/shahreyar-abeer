@@ -2,9 +2,7 @@
 
 ### About me
 
-Statistician turned R developer. I now develop R Shiny apps *and* packages.
-Recently been introduced to the {golem} infrastructure.
-So now I'll be developing R shiny apps *as* packages.
+R developer and aficionado, hoping to become a connoisseur. Working with R professionally for 4+ years. I understand that data has a way with words that only the initiated can grasp, trying to do just that with R. Oh and I don't *plot()* I *ggplot()*, prefer *map()* to *apply()* and I *filter()* instead of *subset()*.
 
 <!--
 **shahreyar-abeer/shahreyar-abeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
