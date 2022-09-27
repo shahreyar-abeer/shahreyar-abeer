@@ -1,8 +1,35 @@
-### Hi there 👋
+#### About Zauad
 
-### About me
+R developer, aficionado. Hopes to become a connoisseur.  
 
-R developer and aficionado, hoping to become a connoisseur. Working with R professionally for 4+ years. I understand that data has a way with words that only the initiated can grasp, trying to do just that with R. Oh and I don't *plot()* I *ggplot()*, prefer *map()* to *apply()* and I *filter()* instead of *subset()*.
+Having a background in Statistics, started working as a Data Analyst with R. Then got attracted to Shiny. Slowly, statisitcs became rather boring. The thought of developing advanced level Shiny apps with custom CSS, JavaScript and stuff seemed quite lucrative. So started working with R Shiny professionally and never looked back.  
+
+It's been almost 5 years now.  
+Currently working as R Shiny Developer (Contract) with [Analytic Health](https://analytichealth.co.uk) and [Dark Peak Analytics](https://darkpeakanalytics.com)
+
+---
+
+Below are some works.
+
+* [R Shiny app](https://abitter.shinyapps.io/psychtopics/) developed for [Liebnitz Institute for Psychology](https://leibniz-psychology.org/en/) made with {golem}. [[repo]](https://github.com/shahreyar-abeer/leibniz-psychology_psychtopics)  
+
+* [Award winning R Shiny app](https://shahreyar-abeer.shinyapps.io/life_of_pi/) - Honourable mentions winner in Shiny Contest 2020. [[repo]](https://github.com/shahreyar-abeer/life_of_pi)  
+
+* Co-author of [{datamods}](https://dreamrs.github.io/datamods/)  
+
+* A [personal blog](https://thewaywer.rbind.io), mainly about R. Made with {blogdown}. 
+
+* Another [Shiny app](https://shahreyar-abeer.shinyapps.io/cranstars/), developed as a final submission to an excellent training session designed by [ThinkR](https://thinkr.fr) on Developing production level Shiny apps. [[repo]](https://github.com/shahreyar-abeer/cranstars).  
+Probably the training that helped bring it all together.  
+
+
+---  
+
+They think success is defined by degrees, position, money and cars. But these trivial things can never define man.  
+
+> A man's measure is his will.
+
+
 
 <!--
 **shahreyar-abeer/shahreyar-abeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
