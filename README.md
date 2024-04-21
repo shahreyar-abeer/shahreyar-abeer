@@ -5,7 +5,7 @@ R developer, aficionado. Hopes to become a connoisseur.
 Having a background in Statistics, started working as a Data Analyst with R. Then got attracted to Shiny. Slowly, statisitcs became rather boring. The thought of developing advanced level Shiny apps with custom CSS, JavaScript and stuff seemed quite lucrative. So started working with R Shiny professionally and never looked back.  
 
 It's been almost 5 years now.  
-Currently working as R Shiny Developer (Contract) with [Analytic Health](https://analytichealth.co.uk) and [Dark Peak Analytics](https://darkpeakanalytics.com)
+Currently working as R Shiny Developer (Contract) with [Analytic Health](https://analytichealth.co.uk)
 
 ---
 
