@@ -5,7 +5,7 @@ Senior R/R Shiny developer.
 Having a background in Statistics, started working as a Data Analyst with R. Then got attracted to Shiny. Slowly, statisitcs became rather boring. The thought of developing advanced level Shiny apps with custom CSS, JavaScript and stuff seemed quite lucrative. So started working with R Shiny professionally and never looked back.  
 
 It's been more than 7 years now. How time flies by!  
-Currently working as Senior R Shiny Developer with [Applitics](https://analytichealth.co.uk)
+Currently working as Senior R Shiny Developer with [Applitics]([https://analytichealth.co.uk](https://www.applitics.fr/APPLITICS%20-%20Full%20Success%20Stories%20-%2003-09-2025.pdf))
 
 ---
 
