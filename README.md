@@ -1,17 +1,19 @@
 #### About Zauad
 
-R developer, aficionado. Hopes to become a connoisseur.  
+Senior R/R Shiny developer.  
 
 Having a background in Statistics, started working as a Data Analyst with R. Then got attracted to Shiny. Slowly, statisitcs became rather boring. The thought of developing advanced level Shiny apps with custom CSS, JavaScript and stuff seemed quite lucrative. So started working with R Shiny professionally and never looked back.  
 
-It's been almost 5 years now.  
-Currently working as R Shiny Developer (Contract) with [Analytic Health](https://analytichealth.co.uk)
+It's been more than 7 years now. How time flies by!  
+Currently working as Senior R Shiny Developer with [Applitics](https://analytichealth.co.uk)
 
 ---
 
 Below are some works.
 
-* [R Shiny app](https://abitter.shinyapps.io/psychtopics/) developed for [Liebnitz Institute for Psychology](https://leibniz-psychology.org/en/) made with {golem}. [[repo]](https://github.com/shahreyar-abeer/leibniz-psychology_psychtopics)  
+* [R Shiny application](https://www.cgdev.org/development-in-2050) developed in association with The Center for Global Development (CGD) that allows the user to predict a variety of global growth scenarios through 2050, looking at aid flows, economic structure, poverty definitions, and more.  
+
+* [R Shiny application](https://abitter.shinyapps.io/psychtopics/) developed for [Liebnitz Institute for Psychology](https://leibniz-psychology.org/en/) made with {golem}. [[repo]](https://github.com/shahreyar-abeer/leibniz-psychology_psychtopics)  
 
 * [Award winning R Shiny app](https://shahreyar-abeer.shinyapps.io/life_of_pi/) - Honourable mentions winner in Shiny Contest 2020. [[repo]](https://github.com/shahreyar-abeer/life_of_pi)  
 
